@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#define m 3
+#define m 50000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 
+//trab demais 
 struct dado{
 	int chave;
 	char nome[30];
