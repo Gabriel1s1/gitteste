@@ -3,9 +3,6 @@
 #include <string.h>
 #define m 3
 
-
-// Cinthia Simplicio e Byanca Neves - Hashing e Tratamento de Colisıes //
-
 struct dado{
 	int chave;
 	char nome[30];
@@ -130,7 +127,7 @@ main ()
 					printf ("\n Inserir valor nao numerico \n");
 					printf ("\nInsira o tamanho da tabela (M): ");
 					scanf("%d", &x);
-					// n n„o pode exceder o m
+					// n n√£o pode exceder o m
 				}
 				system("Pause");
 				break;
